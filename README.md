@@ -1,4 +1,4 @@
-# learning algorithms 
+### Learning algorithms 
 
 - https://www.hackerrank.com/imaxfp
 - https://www.techinterviewhandbook.org/coding-interview-prep
